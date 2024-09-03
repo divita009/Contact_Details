@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Aanchal Maurya",
+	"email": "aanchal@test.com",
+	"phone": "123456789",
+	"city": "bangalore",
+	"state": "karnataka",
+	"country": "India",
+	"organization": "Tesla",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+}

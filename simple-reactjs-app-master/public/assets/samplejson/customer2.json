@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Divita Varshney",
+	"email": "divita01@test.com",
+	"phone": "987654321",
+	"city": "Mangalore",
+	"state": "karnataka",
+	"country": "India",
+	"organization": "Microsoft",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Keen interest govenment fields"
+}
